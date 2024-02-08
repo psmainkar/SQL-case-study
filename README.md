@@ -1,3 +1,2 @@
-# SQL-case-study-joins
-This case study uses 15 music store datasets
-Concepts used: Join functions,subqueries,common table expressions and window functions
+
+Description:This case study explores 15 interconnected datasets from a music store. Through a series of SQL queries and analyses, we'll leverage advanced techniques including join functions, subqueries, common table expressions (CTEs), and window functions to extract valuable insights and uncover hidden patterns within the data.
